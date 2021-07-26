@@ -1,23 +1,14 @@
-# DevSearch
-Sourcode and Resources for Django 2021 Course
-
-See the full course here: https://dennisivy.teachable.com/p/django-beginners-course
-
 # Features
 * Share Projects
 * Message other developers
 * Rate others work
 * Search other developers
 
-# Course Overview
 * Basic Djagno Overview
 * Database Design and Models
 * Static Files
 * User Registration & Authenticaiton
 * Search
-* Pagination
-* Building an API with Django REST Framework (DRF)
-* Deployment
 
 # Tech Stack
 * Django
